@@ -1,0 +1,10 @@
+{
+    "method": "Random",
+    "K": 40,
+    "sigma": 1.4142135623730951,
+    "scale": 1,
+    "repetitions": 5,
+    "X": "[[    1     0]\n [    1     2]\n [    1     3]\n ...\n [36689 36690]\n [36690 36689]\n [36691  8203]]",
+    "experiment_id": 16,
+    "out_path": "/media/vinitgore/Workplace/MTech/MTechYear2Sem1/MTP/code/SubmodularStreamingMaximization/experiment_runner/results/16"
+}
